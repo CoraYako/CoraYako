@@ -14,7 +14,7 @@ He completado la __Tecnicatura Universitaria en Programación__ de la Universida
 
 ## Habilidades:
 
-#### Lenguajes:
+#### Lenguajes
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)&nbsp;
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)&nbsp;
